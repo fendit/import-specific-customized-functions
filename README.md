@@ -1,5 +1,7 @@
 ### Importing Specific Functions from a customized R script to another when being called/sourced
 
+![import-specific-fx](https://github.com/fendit/import-specific-customized-functions/assets/37236930/396141d5-25e5-482f-8efa-dcdbef878bcf)
+
 ### Table of Content
 - [Introduction](https://github.com/fendit/import-specific-customized-functions#introduction)
 - [Example](https://github.com/fendit/import-specific-customized-functions#example)
