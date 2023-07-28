@@ -38,6 +38,7 @@ Error in exists(cacheKey, where = .rs.WorkingDataEnv, inherits = FALSE) :
 ```
 3. ```documentPath()``` and ```getSourceEditorContext()$path``` in ```rstudioapi``` print the path of the script existing the command (based on my testing, the former did not generate a result 'NULL' when running it within a script).
 4. ```basename()``` results in the name of R script being called from.
+5. See the package solution (link [here](https://github.com/fendit/r-import-specific-functions))
 
 ### References
 This repository is inspired by [this post](https://stackoverflow.com/questions/74808768/how-to-find-the-name-of-script-that-is-currently-running-in-r) on stackoverflow.
